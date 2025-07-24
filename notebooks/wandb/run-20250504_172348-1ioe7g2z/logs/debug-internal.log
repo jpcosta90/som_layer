@@ -1,0 +1,19 @@
+{"time":"2025-05-04T17:23:48.72686507-03:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-05-04T17:23:48.726906244-03:00","level":"INFO","msg":"created symlink","path":"/home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250504_172348-1ioe7g2z/logs/debug-core.log"}
+{"time":"2025-05-04T17:23:48.833429948-03:00","level":"INFO","msg":"created new stream","id":"1ioe7g2z"}
+{"time":"2025-05-04T17:23:48.833457274-03:00","level":"INFO","msg":"stream: started","id":"1ioe7g2z"}
+{"time":"2025-05-04T17:23:48.833539292-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"1ioe7g2z"}
+{"time":"2025-05-04T17:23:48.83355313-03:00","level":"INFO","msg":"handler: started","stream_id":"1ioe7g2z"}
+{"time":"2025-05-04T17:23:48.833732506-03:00","level":"INFO","msg":"sender: started","stream_id":"1ioe7g2z"}
+{"time":"2025-05-04T17:23:49.221199005-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-04T17:23:50.451320912-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-04T17:25:29.732423256-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-04T17:25:29.773166417-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-04T17:25:35.299126018-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-04T17:25:35.313727759-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-04T17:25:40.216836838-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-04T17:25:40.987047139-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-04T17:25:54.258754803-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-04T17:25:58.413013681-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-04T17:26:08.762475758-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-04T17:26:08.836433171-03:00","level":"INFO","msg":"Pausing system monitor"}

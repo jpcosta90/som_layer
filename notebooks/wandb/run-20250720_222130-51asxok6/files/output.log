@@ -1,0 +1,17 @@
+  0%|          | 0/719 [00:01<?, ?it/s]
+warning: The size of tensor a (1970) must match the size of tensor b (1792) at non-singleton dimension 1, input_embeds[selected].shape=torch.Size([0, 1970, 1536]), vit_embeds.shape=torch.Size([1792, 1536])
+  0%|          | 0/719 [00:00<?, ?it/s]
+warning: The size of tensor a (1970) must match the size of tensor b (1792) at non-singleton dimension 1, input_embeds[selected].shape=torch.Size([0, 1970, 1536]), vit_embeds.shape=torch.Size([1792, 1536])
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+```json
+{
+    "similarity_score": 30,
+    "category": "Weak Similarity",
+    "justification": "The documents have a structured layout but differ significantly in content, particularly in sections and headings. There are table sections indicating a time table, yet these are empty. They contain the same company-related terms but lack details like names and specific dates. The content structure is similar but the absence of specific content makes them weakly similar."
+}
+```
+
+Embedding de Histograma Resultante (formato): (100,)
+Valores (início): [0.02298614 0.00919445 0.04137505 0.06436118 0.08734732 0.14251405
+ 0.11952791 0.05976396 0.14251405 0.101139  ]
+100%|██████████| 719/719 [45:53<00:00,  3.83s/it]

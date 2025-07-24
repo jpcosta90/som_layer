@@ -1,0 +1,17 @@
+{"time":"2025-05-01T20:01:22.611134105-03:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-05-01T20:01:22.611216981-03:00","level":"INFO","msg":"created symlink","path":"/home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250501_200122-44rtjlzs/logs/debug-core.log"}
+{"time":"2025-05-01T20:01:22.722214142-03:00","level":"INFO","msg":"created new stream","id":"44rtjlzs"}
+{"time":"2025-05-01T20:01:22.722268444-03:00","level":"INFO","msg":"stream: started","id":"44rtjlzs"}
+{"time":"2025-05-01T20:01:22.722331252-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"44rtjlzs"}
+{"time":"2025-05-01T20:01:22.722367991-03:00","level":"INFO","msg":"handler: started","stream_id":"44rtjlzs"}
+{"time":"2025-05-01T20:01:22.722383239-03:00","level":"INFO","msg":"sender: started","stream_id":"44rtjlzs"}
+{"time":"2025-05-01T20:01:23.125663345-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-01T20:26:50.297106069-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-01T20:26:50.298113673-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-01T20:26:51.297832337-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.301111134,"progress":"633B/633B"},{"desc":"uploading config.yaml","runtime_seconds":0.301094995,"progress":"988B/988B"}],"total_operations":2}}
+{"time":"2025-05-01T20:26:51.665290909-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-01T20:26:53.005164489-03:00","level":"INFO","msg":"stream: closing","id":"44rtjlzs"}
+{"time":"2025-05-01T20:26:53.005213247-03:00","level":"INFO","msg":"handler: closed","stream_id":"44rtjlzs"}
+{"time":"2025-05-01T20:26:53.005239023-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"44rtjlzs"}
+{"time":"2025-05-01T20:26:53.00525975-03:00","level":"INFO","msg":"sender: closed","stream_id":"44rtjlzs"}
+{"time":"2025-05-01T20:26:53.005389412-03:00","level":"INFO","msg":"stream: closed","id":"44rtjlzs"}

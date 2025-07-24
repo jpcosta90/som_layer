@@ -1,0 +1,13 @@
+{"time":"2025-05-01T22:42:42.554530192-03:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-05-01T22:42:42.554569066-03:00","level":"INFO","msg":"created symlink","path":"/home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250501_224242-mc2cbyw2/logs/debug-core.log"}
+{"time":"2025-05-01T22:42:42.668291583-03:00","level":"INFO","msg":"created new stream","id":"mc2cbyw2"}
+{"time":"2025-05-01T22:42:42.668341017-03:00","level":"INFO","msg":"stream: started","id":"mc2cbyw2"}
+{"time":"2025-05-01T22:42:42.668415931-03:00","level":"INFO","msg":"handler: started","stream_id":"mc2cbyw2"}
+{"time":"2025-05-01T22:42:42.668842667-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"mc2cbyw2"}
+{"time":"2025-05-01T22:42:42.668841184-03:00","level":"INFO","msg":"sender: started","stream_id":"mc2cbyw2"}
+{"time":"2025-05-01T22:42:43.106515798-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-01T22:42:44.918090053-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T22:43:05.047137312-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-01T22:43:05.088088365-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T22:43:10.747101474-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-01T22:43:11.442623595-03:00","level":"INFO","msg":"Pausing system monitor"}

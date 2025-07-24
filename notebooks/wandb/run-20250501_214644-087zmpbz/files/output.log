@@ -1,0 +1,13 @@
+100%|██████████| 1036/1036 [17:45<00:00,  1.03s/it]
+/tmp/ipykernel_99233/1998595642.py:85: FutureWarning:
+
+`shade` is now deprecated in favor of `fill`; setting `fill=True`.
+This will become an error in seaborn v0.14.0; please update your code.
+
+  sns.kdeplot(distances[labels == 1], label="Pares Iguais", shade=True, color="blue")
+/tmp/ipykernel_99233/1998595642.py:86: FutureWarning:
+
+`shade` is now deprecated in favor of `fill`; setting `fill=True`.
+This will become an error in seaborn v0.14.0; please update your code.
+
+  sns.kdeplot(distances[labels == 0], label="Pares Diferentes", shade=True, color="red")

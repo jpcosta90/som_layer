@@ -1,0 +1,8 @@
+{"time":"2025-06-06T22:01:33.020725234-03:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-06-06T22:01:33.020759509-03:00","level":"INFO","msg":"created symlink","path":"/home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250606_220133-wy81aeu4/logs/debug-core.log"}
+{"time":"2025-06-06T22:01:33.131464638-03:00","level":"INFO","msg":"created new stream","id":"wy81aeu4"}
+{"time":"2025-06-06T22:01:33.131514201-03:00","level":"INFO","msg":"stream: started","id":"wy81aeu4"}
+{"time":"2025-06-06T22:01:33.131779582-03:00","level":"INFO","msg":"handler: started","stream_id":"wy81aeu4"}
+{"time":"2025-06-06T22:01:33.131965192-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"wy81aeu4"}
+{"time":"2025-06-06T22:01:33.131965993-03:00","level":"INFO","msg":"sender: started","stream_id":"wy81aeu4"}
+{"time":"2025-06-06T22:01:33.549266839-03:00","level":"INFO","msg":"Starting system monitor"}

@@ -1,0 +1,9 @@
+{"time":"2025-05-04T17:32:46.449549558-03:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-05-04T17:32:46.449586773-03:00","level":"INFO","msg":"created symlink","path":"/home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250504_173246-r1m8serr/logs/debug-core.log"}
+{"time":"2025-05-04T17:32:46.558176074-03:00","level":"INFO","msg":"created new stream","id":"r1m8serr"}
+{"time":"2025-05-04T17:32:46.558233815-03:00","level":"INFO","msg":"stream: started","id":"r1m8serr"}
+{"time":"2025-05-04T17:32:46.558298508-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"r1m8serr"}
+{"time":"2025-05-04T17:32:46.558307093-03:00","level":"INFO","msg":"sender: started","stream_id":"r1m8serr"}
+{"time":"2025-05-04T17:32:46.558335282-03:00","level":"INFO","msg":"handler: started","stream_id":"r1m8serr"}
+{"time":"2025-05-04T17:32:46.923178745-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-04T17:32:48.873831437-03:00","level":"INFO","msg":"Pausing system monitor"}

@@ -1,0 +1,17 @@
+{"time":"2025-05-06T23:10:00.523684524-03:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-05-06T23:10:00.523724349-03:00","level":"INFO","msg":"created symlink","path":"/home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250506_231000-q77lhcu5/logs/debug-core.log"}
+{"time":"2025-05-06T23:10:00.631268402-03:00","level":"INFO","msg":"created new stream","id":"q77lhcu5"}
+{"time":"2025-05-06T23:10:00.631320991-03:00","level":"INFO","msg":"stream: started","id":"q77lhcu5"}
+{"time":"2025-05-06T23:10:00.631351858-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"q77lhcu5"}
+{"time":"2025-05-06T23:10:00.631372798-03:00","level":"INFO","msg":"handler: started","stream_id":"q77lhcu5"}
+{"time":"2025-05-06T23:10:00.631393527-03:00","level":"INFO","msg":"sender: started","stream_id":"q77lhcu5"}
+{"time":"2025-05-06T23:10:01.052100501-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-06T23:10:58.498652739-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-06T23:10:58.499384253-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-06T23:10:59.264754525-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-06T23:10:59.49911362-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary","runtime_seconds":0.234125936}],"total_operations":1}}
+{"time":"2025-05-06T23:11:00.58304614-03:00","level":"INFO","msg":"stream: closing","id":"q77lhcu5"}
+{"time":"2025-05-06T23:11:00.583086375-03:00","level":"INFO","msg":"handler: closed","stream_id":"q77lhcu5"}
+{"time":"2025-05-06T23:11:00.583107625-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"q77lhcu5"}
+{"time":"2025-05-06T23:11:00.583139796-03:00","level":"INFO","msg":"sender: closed","stream_id":"q77lhcu5"}
+{"time":"2025-05-06T23:11:00.583194448-03:00","level":"INFO","msg":"stream: closed","id":"q77lhcu5"}

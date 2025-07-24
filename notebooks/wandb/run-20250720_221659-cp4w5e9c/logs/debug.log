@@ -1,0 +1,60 @@
+2025-07-20 22:16:59,297 INFO    MainThread:137850 [wandb_setup.py:_flush():68] Current SDK version is 0.19.0
+2025-07-20 22:16:59,297 INFO    MainThread:137850 [wandb_setup.py:_flush():68] Configure stats pid to 137850
+2025-07-20 22:16:59,297 INFO    MainThread:137850 [wandb_setup.py:_flush():68] Loading settings from /home/joaopaulo/.config/wandb/settings
+2025-07-20 22:16:59,297 INFO    MainThread:137850 [wandb_setup.py:_flush():68] Loading settings from /home/joaopaulo/Projects/som_layer/notebooks/wandb/settings
+2025-07-20 22:16:59,297 INFO    MainThread:137850 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-07-20 22:16:59,298 INFO    MainThread:137850 [wandb_init.py:_log_setup():528] Logging user logs to /home/joaopaulo/Projects/som_layer/notebooks/wandb/run-20250720_221659-cp4w5e9c/logs/debug.log
+2025-07-20 22:16:59,298 INFO    MainThread:137850 [wandb_init.py:_log_setup():529] Logging internal logs to /home/joaopaulo/Projects/som_layer/notebooks/wandb/run-20250720_221659-cp4w5e9c/logs/debug-internal.log
+2025-07-20 22:16:59,298 INFO    MainThread:137850 [wandb_init.py:_jupyter_setup():474] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x78b9837887d0>
+2025-07-20 22:16:59,298 INFO    MainThread:137850 [wandb_init.py:init():639] calling init triggers
+2025-07-20 22:16:59,298 INFO    MainThread:137850 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
+config: {'model': 'OpenGVLab/InternVL3-2B', 'embedding_strategy': 'som_trained_on_anchor_doc (exact fns)', 'distance': 'euclidean', 'som_size': '10x10'}
+2025-07-20 22:16:59,298 INFO    MainThread:137850 [wandb_init.py:init():688] starting backend
+2025-07-20 22:16:59,299 INFO    MainThread:137850 [wandb_init.py:init():692] sending inform_init request
+2025-07-20 22:16:59,303 INFO    MainThread:137850 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-07-20 22:16:59,303 INFO    MainThread:137850 [wandb_init.py:init():705] backend started and connected
+2025-07-20 22:16:59,312 INFO    MainThread:137850 [wandb_run.py:_label_probe_notebook():1327] probe notebook
+2025-07-20 22:16:59,389 INFO    MainThread:137850 [wandb_init.py:init():798] updated telemetry
+2025-07-20 22:16:59,389 INFO    MainThread:137850 [wandb_init.py:init():830] communicating run to backend with 90.0 second timeout
+2025-07-20 22:16:59,823 INFO    MainThread:137850 [wandb_init.py:init():882] starting run threads in backend
+2025-07-20 22:16:59,984 INFO    MainThread:137850 [wandb_run.py:_console_start():2443] atexit reg
+2025-07-20 22:16:59,984 INFO    MainThread:137850 [wandb_run.py:_redirect():2293] redirect: wrap_raw
+2025-07-20 22:16:59,984 INFO    MainThread:137850 [wandb_run.py:_redirect():2358] Wrapping output streams.
+2025-07-20 22:16:59,984 INFO    MainThread:137850 [wandb_run.py:_redirect():2383] Redirects installed.
+2025-07-20 22:16:59,986 INFO    MainThread:137850 [wandb_init.py:init():925] run started, returning control to user process
+2025-07-20 22:17:01,232 INFO    MainThread:137850 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2025-07-20 22:17:01,232 INFO    MainThread:137850 [wandb_init.py:_pause_backend():439] pausing backend
+2025-07-20 22:17:12,420 INFO    MainThread:137850 [wandb_init.py:_resume_backend():444] resuming backend
+2025-07-20 22:17:12,440 INFO    MainThread:137850 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2025-07-20 22:17:12,440 INFO    MainThread:137850 [wandb_init.py:_pause_backend():439] pausing backend
+2025-07-20 22:17:14,111 INFO    MainThread:137850 [wandb_init.py:_resume_backend():444] resuming backend
+2025-07-20 22:17:14,113 INFO    MainThread:137850 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2025-07-20 22:17:14,113 INFO    MainThread:137850 [wandb_init.py:_pause_backend():439] pausing backend
+2025-07-20 22:17:18,058 INFO    MainThread:137850 [wandb_init.py:_resume_backend():444] resuming backend
+2025-07-20 22:17:18,061 INFO    MainThread:137850 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2025-07-20 22:17:18,062 INFO    MainThread:137850 [wandb_init.py:_pause_backend():439] pausing backend
+2025-07-20 22:17:22,747 INFO    MainThread:137850 [wandb_init.py:_resume_backend():444] resuming backend
+2025-07-20 22:17:22,930 INFO    MainThread:137850 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2025-07-20 22:17:22,930 INFO    MainThread:137850 [wandb_init.py:_pause_backend():439] pausing backend
+2025-07-20 22:17:55,492 INFO    MainThread:137850 [wandb_init.py:_resume_backend():444] resuming backend
+2025-07-20 22:17:55,510 INFO    MainThread:137850 [wandb_setup.py:_flush():68] Current SDK version is 0.19.0
+2025-07-20 22:17:55,510 INFO    MainThread:137850 [wandb_setup.py:_flush():68] Configure stats pid to 137850
+2025-07-20 22:17:55,510 INFO    MainThread:137850 [wandb_setup.py:_flush():68] Loading settings from /home/joaopaulo/.config/wandb/settings
+2025-07-20 22:17:55,511 INFO    MainThread:137850 [wandb_setup.py:_flush():68] Loading settings from /home/joaopaulo/Projects/som_layer/notebooks/wandb/settings
+2025-07-20 22:17:55,511 INFO    MainThread:137850 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-07-20 22:17:55,511 INFO    MainThread:137850 [wandb_init.py:_log_setup():528] Logging user logs to /home/joaopaulo/Projects/som_layer/notebooks/wandb/run-20250720_221755-vivuhjth/logs/debug.log
+2025-07-20 22:17:55,511 INFO    MainThread:137850 [wandb_init.py:_log_setup():529] Logging internal logs to /home/joaopaulo/Projects/som_layer/notebooks/wandb/run-20250720_221755-vivuhjth/logs/debug-internal.log
+2025-07-20 22:17:55,512 INFO    MainThread:137850 [wandb_init.py:init():639] calling init triggers
+2025-07-20 22:17:55,512 INFO    MainThread:137850 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
+config: {'model': 'OpenGVLab/InternVL3-2B', 'embedding_strategy': 'som_trained_on_anchor_doc (exact fns)', 'distance': 'euclidean', 'som_size': '10x10'}
+2025-07-20 22:17:55,512 INFO    MainThread:137850 [wandb_init.py:init():683] wandb.init() called when a run is still active
+2025-07-20 22:18:05,419 WARNING MsgRouterThr:137850 [router.py:message_loop():75] message_loop has been closed
+2025-07-20 22:18:05,592 INFO    MainThread:137850 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2025-07-20 22:18:05,592 INFO    MainThread:137850 [wandb_init.py:_pause_backend():439] pausing backend
+2025-07-20 22:18:16,925 INFO    MainThread:137850 [wandb_init.py:_resume_backend():444] resuming backend
+2025-07-20 22:18:17,035 INFO    MainThread:137850 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2025-07-20 22:18:17,035 INFO    MainThread:137850 [wandb_init.py:_pause_backend():439] pausing backend
+2025-07-20 22:18:36,277 INFO    MainThread:137850 [wandb_init.py:_resume_backend():444] resuming backend
+2025-07-20 22:18:36,377 INFO    MainThread:137850 [wandb_run.py:_finish():2169] finishing run jpcosta1990-university-of-brasilia/som-internvl-once/cp4w5e9c
+2025-07-20 22:18:36,669 INFO    MainThread:137850 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2025-07-20 22:18:36,669 INFO    MainThread:137850 [wandb_init.py:_pause_backend():439] pausing backend

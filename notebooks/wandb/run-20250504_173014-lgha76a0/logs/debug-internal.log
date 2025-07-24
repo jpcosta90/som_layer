@@ -1,0 +1,13 @@
+{"time":"2025-05-04T17:30:14.728504476-03:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-05-04T17:30:14.728545866-03:00","level":"INFO","msg":"created symlink","path":"/home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250504_173014-lgha76a0/logs/debug-core.log"}
+{"time":"2025-05-04T17:30:14.836927783-03:00","level":"INFO","msg":"created new stream","id":"lgha76a0"}
+{"time":"2025-05-04T17:30:14.83699727-03:00","level":"INFO","msg":"stream: started","id":"lgha76a0"}
+{"time":"2025-05-04T17:30:14.837060067-03:00","level":"INFO","msg":"sender: started","stream_id":"lgha76a0"}
+{"time":"2025-05-04T17:30:14.837065827-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"lgha76a0"}
+{"time":"2025-05-04T17:30:14.837207016-03:00","level":"INFO","msg":"handler: started","stream_id":"lgha76a0"}
+{"time":"2025-05-04T17:30:15.221093824-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-04T17:30:16.686518503-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-04T17:31:23.437250312-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-04T17:31:23.440892396-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-04T17:31:31.712076296-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-04T17:31:32.59188367-03:00","level":"INFO","msg":"Pausing system monitor"}

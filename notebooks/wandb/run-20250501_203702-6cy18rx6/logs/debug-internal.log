@@ -1,0 +1,17 @@
+{"time":"2025-05-01T20:37:02.323863879-03:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-05-01T20:37:02.323895497-03:00","level":"INFO","msg":"created symlink","path":"/home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250501_203702-6cy18rx6/logs/debug-core.log"}
+{"time":"2025-05-01T20:37:02.435777801-03:00","level":"INFO","msg":"created new stream","id":"6cy18rx6"}
+{"time":"2025-05-01T20:37:02.43583175-03:00","level":"INFO","msg":"stream: started","id":"6cy18rx6"}
+{"time":"2025-05-01T20:37:02.435982097-03:00","level":"INFO","msg":"handler: started","stream_id":"6cy18rx6"}
+{"time":"2025-05-01T20:37:02.436208966-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"6cy18rx6"}
+{"time":"2025-05-01T20:37:02.436213955-03:00","level":"INFO","msg":"sender: started","stream_id":"6cy18rx6"}
+{"time":"2025-05-01T20:37:02.891167783-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-01T21:38:41.347803503-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-01T21:38:41.348724767-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-01T21:38:42.34847623-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media/images/densidade_1_ce27fa482238ab6aa8e7.png","runtime_seconds":0.777526197,"progress":"49.8KB/49.8KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.531543943,"progress":"2.3KB/2.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.312097245,"progress":"988B/988B"},{"desc":"uploading output.log","runtime_seconds":0.312081315,"progress":"637B/637B"}],"total_operations":4}}
+{"time":"2025-05-01T21:38:42.533138602-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-01T21:38:43.856891323-03:00","level":"INFO","msg":"stream: closing","id":"6cy18rx6"}
+{"time":"2025-05-01T21:38:43.856938413-03:00","level":"INFO","msg":"handler: closed","stream_id":"6cy18rx6"}
+{"time":"2025-05-01T21:38:43.85696271-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"6cy18rx6"}
+{"time":"2025-05-01T21:38:43.856991055-03:00","level":"INFO","msg":"sender: closed","stream_id":"6cy18rx6"}
+{"time":"2025-05-01T21:38:43.857125123-03:00","level":"INFO","msg":"stream: closed","id":"6cy18rx6"}

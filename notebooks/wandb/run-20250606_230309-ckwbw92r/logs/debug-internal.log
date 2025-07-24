@@ -1,0 +1,17 @@
+{"time":"2025-06-06T23:03:09.756261088-03:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-06-06T23:03:09.756333854-03:00","level":"INFO","msg":"created symlink","path":"/home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250606_230309-ckwbw92r/logs/debug-core.log"}
+{"time":"2025-06-06T23:03:09.873793257-03:00","level":"INFO","msg":"created new stream","id":"ckwbw92r"}
+{"time":"2025-06-06T23:03:09.874232653-03:00","level":"INFO","msg":"stream: started","id":"ckwbw92r"}
+{"time":"2025-06-06T23:03:09.874463887-03:00","level":"INFO","msg":"handler: started","stream_id":"ckwbw92r"}
+{"time":"2025-06-06T23:03:09.874629408-03:00","level":"INFO","msg":"sender: started","stream_id":"ckwbw92r"}
+{"time":"2025-06-06T23:03:09.874643495-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"ckwbw92r"}
+{"time":"2025-06-06T23:03:10.461785721-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-06T23:34:00.182592901-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-06T23:34:00.183074358-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-06T23:34:01.088221425-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-06T23:34:01.183159074-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.094671158}],"total_operations":1}}
+{"time":"2025-06-06T23:34:02.380942987-03:00","level":"INFO","msg":"stream: closing","id":"ckwbw92r"}
+{"time":"2025-06-06T23:34:02.380986158-03:00","level":"INFO","msg":"handler: closed","stream_id":"ckwbw92r"}
+{"time":"2025-06-06T23:34:02.381007308-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ckwbw92r"}
+{"time":"2025-06-06T23:34:02.381053916-03:00","level":"INFO","msg":"sender: closed","stream_id":"ckwbw92r"}
+{"time":"2025-06-06T23:34:02.381155838-03:00","level":"INFO","msg":"stream: closed","id":"ckwbw92r"}

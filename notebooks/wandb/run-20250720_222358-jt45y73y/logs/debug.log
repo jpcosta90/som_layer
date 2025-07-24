@@ -1,0 +1,21 @@
+2025-07-20 22:23:58,962 INFO    MainThread:138513 [wandb_setup.py:_flush():68] Current SDK version is 0.19.0
+2025-07-20 22:23:58,963 INFO    MainThread:138513 [wandb_setup.py:_flush():68] Configure stats pid to 138513
+2025-07-20 22:23:58,963 INFO    MainThread:138513 [wandb_setup.py:_flush():68] Loading settings from /home/joaopaulo/.config/wandb/settings
+2025-07-20 22:23:58,963 INFO    MainThread:138513 [wandb_setup.py:_flush():68] Loading settings from /home/joaopaulo/Projects/som_layer/notebooks/wandb/settings
+2025-07-20 22:23:58,963 INFO    MainThread:138513 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-07-20 22:23:58,963 INFO    MainThread:138513 [wandb_init.py:_log_setup():528] Logging user logs to /home/joaopaulo/Projects/som_layer/notebooks/wandb/run-20250720_222358-jt45y73y/logs/debug.log
+2025-07-20 22:23:58,963 INFO    MainThread:138513 [wandb_init.py:_log_setup():529] Logging internal logs to /home/joaopaulo/Projects/som_layer/notebooks/wandb/run-20250720_222358-jt45y73y/logs/debug-internal.log
+2025-07-20 22:23:58,963 INFO    MainThread:138513 [wandb_init.py:init():639] calling init triggers
+2025-07-20 22:23:58,963 INFO    MainThread:138513 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
+config: {'model': 'OpenGVLab/InternVL3-2B', 'embedding_strategy': 'som_trained_on_anchor_doc (exact fns)', 'distance': 'euclidean', 'som_size': '10x10'}
+2025-07-20 22:23:58,963 INFO    MainThread:138513 [wandb_init.py:init():683] wandb.init() called when a run is still active
+2025-07-20 23:09:53,398 INFO    MainThread:138513 [wandb_run.py:_finish():2169] finishing run jpcosta1990-university-of-brasilia/som-internvl-once/51asxok6
+2025-07-20 23:09:53,399 INFO    MainThread:138513 [jupyter.py:save_history():459] not saving jupyter history
+2025-07-20 23:09:53,399 INFO    MainThread:138513 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2025-07-20 23:09:53,399 INFO    MainThread:138513 [wandb_init.py:_jupyter_teardown():456] cleaning up jupyter logic
+2025-07-20 23:09:53,400 INFO    MainThread:138513 [wandb_run.py:_atexit_cleanup():2408] got exitcode: 0
+2025-07-20 23:09:53,400 INFO    MainThread:138513 [wandb_run.py:_restore():2390] restore
+2025-07-20 23:09:53,400 INFO    MainThread:138513 [wandb_run.py:_restore():2396] restore done
+2025-07-20 23:09:56,202 INFO    MainThread:138513 [wandb_run.py:_footer_history_summary_info():3951] rendering history
+2025-07-20 23:09:56,202 INFO    MainThread:138513 [wandb_run.py:_footer_history_summary_info():3983] rendering summary
+2025-07-20 23:09:56,212 INFO    MainThread:138513 [wandb_run.py:_footer_sync_info():3912] logging synced files

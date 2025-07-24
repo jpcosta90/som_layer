@@ -1,0 +1,13 @@
+{"time":"2025-05-04T17:35:02.04914536-03:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-05-04T17:35:02.049198194-03:00","level":"INFO","msg":"created symlink","path":"/home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250504_173502-1xl1qaom/logs/debug-core.log"}
+{"time":"2025-05-04T17:35:02.159847082-03:00","level":"INFO","msg":"created new stream","id":"1xl1qaom"}
+{"time":"2025-05-04T17:35:02.159900436-03:00","level":"INFO","msg":"stream: started","id":"1xl1qaom"}
+{"time":"2025-05-04T17:35:02.159957337-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"1xl1qaom"}
+{"time":"2025-05-04T17:35:02.159992509-03:00","level":"INFO","msg":"handler: started","stream_id":"1xl1qaom"}
+{"time":"2025-05-04T17:35:02.160019076-03:00","level":"INFO","msg":"sender: started","stream_id":"1xl1qaom"}
+{"time":"2025-05-04T17:35:02.560737032-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-04T17:35:03.652707082-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-04T17:35:29.148807887-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-04T17:35:29.15153293-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-04T17:35:36.72764133-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-04T17:35:38.8120521-03:00","level":"INFO","msg":"Pausing system monitor"}

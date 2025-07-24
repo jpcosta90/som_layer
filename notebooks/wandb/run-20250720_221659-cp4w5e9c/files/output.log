@@ -1,0 +1,19 @@
+  0%|          | 0/719 [00:01<?, ?it/s]
+  0%|          | 2/719 [00:07<41:48,  3.50s/it]
+--- Iniciando Processo para um Documento ---
+Criando um SOM de 10x10 para 1970 tokens.
+Treinando o SOM com os tokens do próprio documento...
+Treinamento do SOM concluído.
+Gerando o histograma de 'auto-ativação'...
+--- Processo Didático Concluído ---
+--- Iniciando Processo para um Documento ---
+Criando um SOM de 10x10 para 1970 tokens.
+Treinando o SOM com os tokens do próprio documento...
+Treinamento do SOM concluído.
+Gerando o histograma de 'auto-ativação'...
+--- Processo Didático Concluído ---
+--- Iniciando Processo para um Documento ---
+Criando um SOM de 10x10 para 1970 tokens.
+Treinando o SOM com os tokens do próprio documento...
+Treinamento do SOM concluído.
+Gerando o histograma de 'auto-ativação'...

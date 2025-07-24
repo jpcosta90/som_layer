@@ -1,0 +1,12 @@
+{"time":"2025-05-01T14:04:48.725591365-03:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-05-01T14:04:48.725643203-03:00","level":"INFO","msg":"created symlink","path":"/home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250501_140448-xyxmo4dj/logs/debug-core.log"}
+{"time":"2025-05-01T14:04:48.836785324-03:00","level":"INFO","msg":"created new stream","id":"xyxmo4dj"}
+{"time":"2025-05-01T14:04:48.836840678-03:00","level":"INFO","msg":"stream: started","id":"xyxmo4dj"}
+{"time":"2025-05-01T14:04:48.836911972-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"xyxmo4dj"}
+{"time":"2025-05-01T14:04:48.8369426-03:00","level":"INFO","msg":"handler: started","stream_id":"xyxmo4dj"}
+{"time":"2025-05-01T14:04:48.836952258-03:00","level":"INFO","msg":"sender: started","stream_id":"xyxmo4dj"}
+{"time":"2025-05-01T14:04:49.222576564-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-01T14:04:49.436290736-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T14:05:04.704553189-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-01T14:05:04.744353807-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T14:05:06.877428938-03:00","level":"INFO","msg":"Resuming system monitor"}

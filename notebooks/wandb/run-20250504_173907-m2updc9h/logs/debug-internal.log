@@ -1,0 +1,9 @@
+{"time":"2025-05-04T17:39:07.385895809-03:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-05-04T17:39:07.385949705-03:00","level":"INFO","msg":"created symlink","path":"/home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250504_173907-m2updc9h/logs/debug-core.log"}
+{"time":"2025-05-04T17:39:07.494325508-03:00","level":"INFO","msg":"created new stream","id":"m2updc9h"}
+{"time":"2025-05-04T17:39:07.494380226-03:00","level":"INFO","msg":"stream: started","id":"m2updc9h"}
+{"time":"2025-05-04T17:39:07.494442808-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"m2updc9h"}
+{"time":"2025-05-04T17:39:07.494464537-03:00","level":"INFO","msg":"sender: started","stream_id":"m2updc9h"}
+{"time":"2025-05-04T17:39:07.494562362-03:00","level":"INFO","msg":"handler: started","stream_id":"m2updc9h"}
+{"time":"2025-05-04T17:39:07.912140904-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-04T17:39:09.853356412-03:00","level":"INFO","msg":"Pausing system monitor"}

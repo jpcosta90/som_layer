@@ -1,0 +1,12 @@
+{"time":"2025-05-01T14:01:22.755667517-03:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-05-01T14:01:22.755704496-03:00","level":"INFO","msg":"created symlink","path":"/home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250501_140122-krmeh20a/logs/debug-core.log"}
+{"time":"2025-05-01T14:01:22.864440836-03:00","level":"INFO","msg":"created new stream","id":"krmeh20a"}
+{"time":"2025-05-01T14:01:22.864493355-03:00","level":"INFO","msg":"stream: started","id":"krmeh20a"}
+{"time":"2025-05-01T14:01:22.864562816-03:00","level":"INFO","msg":"sender: started","stream_id":"krmeh20a"}
+{"time":"2025-05-01T14:01:22.864569579-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"krmeh20a"}
+{"time":"2025-05-01T14:01:22.864672923-03:00","level":"INFO","msg":"handler: started","stream_id":"krmeh20a"}
+{"time":"2025-05-01T14:01:23.44713908-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-01T14:01:23.6322965-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T14:01:27.852478311-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-01T14:01:27.893208338-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T14:01:32.171413316-03:00","level":"INFO","msg":"Resuming system monitor"}

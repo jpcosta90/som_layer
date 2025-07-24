@@ -1,0 +1,4 @@
+  0%|          | 0/1036 [00:01<?, ?it/s]
+warning: The size of tensor a (3506) must match the size of tensor b (3328) at non-singleton dimension 1, input_embeds[selected].shape=torch.Size([0, 3506, 5120]), vit_embeds.shape=torch.Size([3328, 5120])
+  0%|          | 0/1036 [00:00<?, ?it/s]
+warning: The size of tensor a (3506) must match the size of tensor b (3328) at non-singleton dimension 1, input_embeds[selected].shape=torch.Size([0, 3506, 5120]), vit_embeds.shape=torch.Size([3328, 5120])

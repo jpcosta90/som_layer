@@ -1,0 +1,12 @@
+  0%|          | 0/1036 [00:01<?, ?it/s]
+warning: The size of tensor a (3506) must match the size of tensor b (3328) at non-singleton dimension 1, input_embeds[selected].shape=torch.Size([0, 3506, 5120]), vit_embeds.shape=torch.Size([3328, 5120])
+warning: The size of tensor a (3506) must match the size of tensor b (3328) at non-singleton dimension 1, input_embeds[selected].shape=torch.Size([0, 3506, 5120]), vit_embeds.shape=torch.Size([3328, 5120])
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+```json
+{
+  "similarity_score": 75,
+  "category": "Highly Similar",
+  "justification": "Both documents share a similar layout with company information at the top, followed by customer and invoice details, then a section for payment terms and a table with ordered products. They have similar graphical elements such as headers and tables but differ slightly in layout specifics like address structure and payment terms."
+}
+```
+  0%|          | 0/1036 [00:05<?, ?it/s]

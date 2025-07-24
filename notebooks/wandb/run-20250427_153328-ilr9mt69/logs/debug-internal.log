@@ -1,0 +1,8 @@
+{"time":"2025-04-27T15:33:28.708164952-03:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-04-27T15:33:28.708184488-03:00","level":"INFO","msg":"created symlink","path":"/home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250427_153328-ilr9mt69/logs/debug-core.log"}
+{"time":"2025-04-27T15:33:28.815299668-03:00","level":"INFO","msg":"created new stream","id":"ilr9mt69"}
+{"time":"2025-04-27T15:33:28.8153539-03:00","level":"INFO","msg":"stream: started","id":"ilr9mt69"}
+{"time":"2025-04-27T15:33:28.815454791-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"ilr9mt69"}
+{"time":"2025-04-27T15:33:28.815479077-03:00","level":"INFO","msg":"sender: started","stream_id":"ilr9mt69"}
+{"time":"2025-04-27T15:33:28.81547012-03:00","level":"INFO","msg":"handler: started","stream_id":"ilr9mt69"}
+{"time":"2025-04-27T15:33:29.203169824-03:00","level":"INFO","msg":"Starting system monitor"}

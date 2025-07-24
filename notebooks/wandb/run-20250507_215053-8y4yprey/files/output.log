@@ -1,0 +1,2 @@
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/transformers/training_args.py:1612: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(

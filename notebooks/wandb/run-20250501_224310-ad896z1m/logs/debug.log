@@ -1,0 +1,13 @@
+2025-05-01 22:43:10,766 INFO    MainThread:101096 [wandb_setup.py:_flush():68] Current SDK version is 0.19.0
+2025-05-01 22:43:10,766 INFO    MainThread:101096 [wandb_setup.py:_flush():68] Configure stats pid to 101096
+2025-05-01 22:43:10,766 INFO    MainThread:101096 [wandb_setup.py:_flush():68] Loading settings from /home/joaopaulo/.config/wandb/settings
+2025-05-01 22:43:10,766 INFO    MainThread:101096 [wandb_setup.py:_flush():68] Loading settings from /home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/settings
+2025-05-01 22:43:10,766 INFO    MainThread:101096 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-05-01 22:43:10,766 INFO    MainThread:101096 [wandb_init.py:_log_setup():528] Logging user logs to /home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250501_224310-ad896z1m/logs/debug.log
+2025-05-01 22:43:10,766 INFO    MainThread:101096 [wandb_init.py:_log_setup():529] Logging internal logs to /home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250501_224310-ad896z1m/logs/debug-internal.log
+2025-05-01 22:43:10,766 INFO    MainThread:101096 [wandb_init.py:init():639] calling init triggers
+2025-05-01 22:43:10,767 INFO    MainThread:101096 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
+config: {'model': 'OpenGVLab/InternVL3-14B', 'embedding_strategy': 'last_hidden_mean', 'distance': 'euclidean'}
+2025-05-01 22:43:10,767 INFO    MainThread:101096 [wandb_init.py:init():683] wandb.init() called when a run is still active
+2025-05-01 22:43:11,442 INFO    MainThread:101096 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2025-05-01 22:43:11,442 INFO    MainThread:101096 [wandb_init.py:_pause_backend():439] pausing backend

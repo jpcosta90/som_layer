@@ -1,0 +1,17 @@
+{"time":"2025-05-07T21:35:58.859154053-03:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-05-07T21:35:58.859194428-03:00","level":"INFO","msg":"created symlink","path":"/home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250507_213558-i50vc08q/logs/debug-core.log"}
+{"time":"2025-05-07T21:35:58.965121353-03:00","level":"INFO","msg":"created new stream","id":"i50vc08q"}
+{"time":"2025-05-07T21:35:58.965147703-03:00","level":"INFO","msg":"stream: started","id":"i50vc08q"}
+{"time":"2025-05-07T21:35:58.965187848-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"i50vc08q"}
+{"time":"2025-05-07T21:35:58.965207375-03:00","level":"INFO","msg":"handler: started","stream_id":"i50vc08q"}
+{"time":"2025-05-07T21:35:58.96521554-03:00","level":"INFO","msg":"sender: started","stream_id":"i50vc08q"}
+{"time":"2025-05-07T21:35:59.443270471-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-07T21:37:04.219173629-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-07T21:37:04.219874272-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-07T21:37:05.219888648-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.328792051,"progress":"6.8KB/6.8KB"},{"desc":"uploading output.log","runtime_seconds":0.328779458,"progress":"248B/248B"}],"total_operations":2}}
+{"time":"2025-05-07T21:37:05.533431972-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-07T21:37:06.862204888-03:00","level":"INFO","msg":"stream: closing","id":"i50vc08q"}
+{"time":"2025-05-07T21:37:06.862248119-03:00","level":"INFO","msg":"handler: closed","stream_id":"i50vc08q"}
+{"time":"2025-05-07T21:37:06.862270331-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"i50vc08q"}
+{"time":"2025-05-07T21:37:06.862317079-03:00","level":"INFO","msg":"sender: closed","stream_id":"i50vc08q"}
+{"time":"2025-05-07T21:37:06.862376731-03:00","level":"INFO","msg":"stream: closed","id":"i50vc08q"}

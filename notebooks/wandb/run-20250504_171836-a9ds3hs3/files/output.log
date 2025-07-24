@@ -1,0 +1,14 @@
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/transformers/training_args.py:1612: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+Parâmetros treináveis no modelo:
+
+head.mlp.0.weight: torch.Size([512, 3072])
+head.mlp.0.bias: torch.Size([512])
+head.mlp.2.weight: torch.Size([128, 512])
+head.mlp.2.bias: torch.Size([128])
+head.mlp.4.weight: torch.Size([1, 128])
+head.mlp.4.bias: torch.Size([1])
+
+Total de parâmetros: 1,281,817,602
+Parâmetros treináveis: 1,639,169
+Proporção treinável: 0.13%

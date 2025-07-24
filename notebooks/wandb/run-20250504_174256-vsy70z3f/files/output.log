@@ -1,0 +1,118 @@
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/torch/_dynamo/eval_frame.py:632: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. In version 2.5 we will raise an exception if use_reentrant is not passed. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  return fn(*args, **kwargs)
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/torch/utils/checkpoint.py:87: UserWarning: None of the inputs have requires_grad=True. Gradients will be None
+  warnings.warn(
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/transformers/training_args.py:1612: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+Parâmetros treináveis no modelo:
+
+head.mlp.0.weight: torch.Size([512, 3072])
+head.mlp.0.bias: torch.Size([512])
+head.mlp.2.weight: torch.Size([128, 512])
+head.mlp.2.bias: torch.Size([128])
+head.mlp.4.weight: torch.Size([1, 128])
+head.mlp.4.bias: torch.Size([1])
+
+Total de parâmetros: 1,281,817,602
+Parâmetros treináveis: 1,639,169
+Proporção treinável: 0.13%
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/transformers/training_args.py:1612: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+Parâmetros treináveis no modelo:
+
+head.mlp.0.weight: torch.Size([512, 3072])
+head.mlp.0.bias: torch.Size([512])
+head.mlp.2.weight: torch.Size([128, 512])
+head.mlp.2.bias: torch.Size([128])
+head.mlp.4.weight: torch.Size([1, 128])
+head.mlp.4.bias: torch.Size([1])
+
+Total de parâmetros: 1,280,178,433
+Parâmetros treináveis: 1,639,169
+Proporção treinável: 0.13%
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/transformers/training_args.py:1612: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+Parâmetros treináveis no modelo:
+
+head.mlp.0.weight: torch.Size([512, 3072])
+head.mlp.0.bias: torch.Size([512])
+head.mlp.2.weight: torch.Size([128, 512])
+head.mlp.2.bias: torch.Size([128])
+head.mlp.4.weight: torch.Size([1, 128])
+head.mlp.4.bias: torch.Size([1])
+
+Total de parâmetros: 1,281,817,602
+Parâmetros treináveis: 1,639,169
+Proporção treinável: 0.13%
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/transformers/training_args.py:1612: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+Parâmetros treináveis no modelo:
+
+head.mlp.0.weight: torch.Size([512, 3072])
+head.mlp.0.bias: torch.Size([512])
+head.mlp.2.weight: torch.Size([128, 512])
+head.mlp.2.bias: torch.Size([128])
+head.mlp.4.weight: torch.Size([1, 128])
+head.mlp.4.bias: torch.Size([1])
+
+Total de parâmetros: 1,280,178,433
+Parâmetros treináveis: 1,639,169
+Proporção treinável: 0.13%
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/torch/_dynamo/eval_frame.py:632: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. In version 2.5 we will raise an exception if use_reentrant is not passed. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  return fn(*args, **kwargs)
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/torch/utils/checkpoint.py:87: UserWarning: None of the inputs have requires_grad=True. Gradients will be None
+  warnings.warn(
+warning: The size of tensor a (3331) must match the size of tensor b (3328) at non-singleton dimension 1, input_embeds[selected].shape=torch.Size([0, 3331, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/transformers/training_args.py:1612: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+Parâmetros treináveis no modelo:
+
+head.mlp.0.weight: torch.Size([512, 3072])
+head.mlp.0.bias: torch.Size([512])
+head.mlp.2.weight: torch.Size([128, 512])
+head.mlp.2.bias: torch.Size([128])
+head.mlp.4.weight: torch.Size([1, 128])
+head.mlp.4.bias: torch.Size([1])
+
+Total de parâmetros: 1,280,178,433
+Parâmetros treináveis: 1,639,169
+Proporção treinável: 0.13%
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/torch/_dynamo/eval_frame.py:632: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. In version 2.5 we will raise an exception if use_reentrant is not passed. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  return fn(*args, **kwargs)
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/torch/utils/checkpoint.py:87: UserWarning: None of the inputs have requires_grad=True. Gradients will be None
+  warnings.warn(
+warning: The size of tensor a (3331) must match the size of tensor b (3328) at non-singleton dimension 1, input_embeds[selected].shape=torch.Size([0, 3331, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/transformers/training_args.py:1612: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+Parâmetros treináveis no modelo:
+
+head.mlp.0.weight: torch.Size([512, 3072])
+head.mlp.0.bias: torch.Size([512])
+head.mlp.2.weight: torch.Size([128, 512])
+head.mlp.2.bias: torch.Size([128])
+head.mlp.4.weight: torch.Size([1, 128])
+head.mlp.4.bias: torch.Size([1])
+
+Total de parâmetros: 1,280,178,433
+Parâmetros treináveis: 1,639,169
+Proporção treinável: 0.13%
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/torch/_dynamo/eval_frame.py:632: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. In version 2.5 we will raise an exception if use_reentrant is not passed. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  return fn(*args, **kwargs)
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/torch/utils/checkpoint.py:87: UserWarning: None of the inputs have requires_grad=True. Gradients will be None
+  warnings.warn(
+warning: The size of tensor a (3331) must match the size of tensor b (3328) at non-singleton dimension 1, input_embeds[selected].shape=torch.Size([0, 3331, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+```json
+{
+    "similarity_score": 65,
+    "category": "Moderately Similar",
+    "justification": "The documents share a similar layout structure, including headers, sections, and a customer number. They also mention test articles and their specifications. However, there are noticeable minor differences in text formatting, amounts provided, and some handwritten notes."
+}
+```
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+warning: The size of tensor a (2565) must match the size of tensor b (2560) at non-singleton dimension 1, input_embeds[selected].shape=torch.Size([0, 2565, 1536]), vit_embeds.shape=torch.Size([2560, 1536])

@@ -1,0 +1,15 @@
+{"time":"2025-05-04T17:27:26.209672457-03:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-05-04T17:27:26.209717339-03:00","level":"INFO","msg":"created symlink","path":"/home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250504_172726-fgg72ql5/logs/debug-core.log"}
+{"time":"2025-05-04T17:27:26.318525225-03:00","level":"INFO","msg":"created new stream","id":"fgg72ql5"}
+{"time":"2025-05-04T17:27:26.318574264-03:00","level":"INFO","msg":"stream: started","id":"fgg72ql5"}
+{"time":"2025-05-04T17:27:26.31859673-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"fgg72ql5"}
+{"time":"2025-05-04T17:27:26.318649323-03:00","level":"INFO","msg":"handler: started","stream_id":"fgg72ql5"}
+{"time":"2025-05-04T17:27:26.318650575-03:00","level":"INFO","msg":"sender: started","stream_id":"fgg72ql5"}
+{"time":"2025-05-04T17:27:26.703444454-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-04T17:27:27.873879214-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-04T17:28:54.138322863-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-04T17:28:54.140580915-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-04T17:29:01.942174667-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-04T17:29:02.721453306-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-04T17:29:05.862372672-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-04T17:29:05.863731171-03:00","level":"INFO","msg":"Pausing system monitor"}

@@ -1,0 +1,4 @@
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/transformers/training_args.py:1612: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+/tmp/ipykernel_131970/108239382.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  "label": torch.tensor(label, dtype=torch.float32)

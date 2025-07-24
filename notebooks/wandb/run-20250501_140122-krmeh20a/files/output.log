@@ -1,0 +1,1299 @@
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/torch/_dynamo/eval_frame.py:632: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. In version 2.5 we will raise an exception if use_reentrant is not passed. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  return fn(*args, **kwargs)
+/home/joaopaulo/envs/pytorch/lib/python3.11/site-packages/torch/utils/checkpoint.py:87: UserWarning: None of the inputs have requires_grad=True. Gradients will be None
+  warnings.warn(
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+
+[DEBUG] Prompt decodificado:
+
+Image: <image>
+
+You are an AI assistant specialized in document analysis. Your task is to analyze the **layout and structure** of the provided company document image.
+
+**Instructions:**
+Carefully examine the image and focus on describing:
+- **Shapes and Elements:** Presence of tables, sections, headers, logos, and graphical components.
+- **Layout Consistency:** Alignment of text blocks, margins, and general spatial organization.
+- **Content Type:** What kind of content the document predominantly contains (e.g., forms, paragraphs, tables).
+
+**Objective:**
+Generate a **compact internal representation** that captures the visual and structural characteristics of the document for similarity comparison.
+
+**Important:**
+- Do not perform OCR or extract textual content.
+- Focus only on the **visual layout and structure**.
+
+**Output:**
+Provide a concise summary suitable for internal comparison tasks, without any conclusions about similarity.
+
+warning: The size of tensor a (0) must match the size of tensor b (3328) at non-singleton dimension 0, input_embeds[selected].shape=torch.Size([0, 1536]), vit_embeds.shape=torch.Size([3328, 1536])

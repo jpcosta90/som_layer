@@ -1,0 +1,17 @@
+{"time":"2025-05-01T19:40:16.407561154-03:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-05-01T19:40:16.407609976-03:00","level":"INFO","msg":"created symlink","path":"/home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250501_194016-dpxpkkz4/logs/debug-core.log"}
+{"time":"2025-05-01T19:40:16.518835371-03:00","level":"INFO","msg":"created new stream","id":"dpxpkkz4"}
+{"time":"2025-05-01T19:40:16.518883331-03:00","level":"INFO","msg":"stream: started","id":"dpxpkkz4"}
+{"time":"2025-05-01T19:40:16.518906845-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"dpxpkkz4"}
+{"time":"2025-05-01T19:40:16.51894149-03:00","level":"INFO","msg":"sender: started","stream_id":"dpxpkkz4"}
+{"time":"2025-05-01T19:40:16.519000391-03:00","level":"INFO","msg":"handler: started","stream_id":"dpxpkkz4"}
+{"time":"2025-05-01T19:40:17.017165197-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-01T19:58:03.901787232-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-01T19:58:03.902622912-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-01T19:58:04.902392254-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media/images/densidade_1_69ed0b44f19710b961d7.png","runtime_seconds":0.765143307,"progress":"49.3KB/49.3KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.478803991,"progress":"2.2KB/2.2KB"},{"desc":"uploading config.yaml","runtime_seconds":0.241636944,"progress":"988B/988B"},{"desc":"uploading output.log","runtime_seconds":0.241612439,"progress":"633B/633B"}],"total_operations":4}}
+{"time":"2025-05-01T19:58:05.508083658-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-01T19:58:06.858872751-03:00","level":"INFO","msg":"stream: closing","id":"dpxpkkz4"}
+{"time":"2025-05-01T19:58:06.858929458-03:00","level":"INFO","msg":"handler: closed","stream_id":"dpxpkkz4"}
+{"time":"2025-05-01T19:58:06.858961388-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"dpxpkkz4"}
+{"time":"2025-05-01T19:58:06.859015619-03:00","level":"INFO","msg":"sender: closed","stream_id":"dpxpkkz4"}
+{"time":"2025-05-01T19:58:06.859137057-03:00","level":"INFO","msg":"stream: closed","id":"dpxpkkz4"}

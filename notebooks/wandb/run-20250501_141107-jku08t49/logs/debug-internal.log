@@ -1,0 +1,12 @@
+{"time":"2025-05-01T14:11:07.833420318-03:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-05-01T14:11:07.833465643-03:00","level":"INFO","msg":"created symlink","path":"/home/joaopaulo/Projects/internvl3-siamese/notebooks/wandb/run-20250501_141107-jku08t49/logs/debug-core.log"}
+{"time":"2025-05-01T14:11:07.94238852-03:00","level":"INFO","msg":"created new stream","id":"jku08t49"}
+{"time":"2025-05-01T14:11:07.942437833-03:00","level":"INFO","msg":"stream: started","id":"jku08t49"}
+{"time":"2025-05-01T14:11:07.942493588-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"jku08t49"}
+{"time":"2025-05-01T14:11:07.942502645-03:00","level":"INFO","msg":"sender: started","stream_id":"jku08t49"}
+{"time":"2025-05-01T14:11:07.942612381-03:00","level":"INFO","msg":"handler: started","stream_id":"jku08t49"}
+{"time":"2025-05-01T14:11:08.530502596-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-01T14:11:08.741338295-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T14:11:10.637591128-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-01T14:11:10.678202268-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T14:11:17.390122177-03:00","level":"INFO","msg":"Resuming system monitor"}
